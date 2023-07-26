@@ -1,0 +1,1 @@
+This is a Url Shortner Api implemented with Django and the Django Rest Framework
